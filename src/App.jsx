@@ -146,7 +146,7 @@ const Navbar = () => {
     <nav className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? 'bg-slate-950/90 shadow-lg backdrop-blur-md py-4' : 'bg-transparent py-6'}`}>
       <div className="container mx-auto px-6 flex justify-between items-center">
         <a href="#" className="text-2xl font-bold text-white tracking-tighter">
-          SK<span className="text-teal-400">.</span>
+          Sukhandeep Kaur<span className="text-teal-400">.</span>
         </a>
 
         {/* Desktop Nav */}
