@@ -5,10 +5,7 @@ import {
   Brain, FileText, ChevronRight, Award, PenTool
 } from 'lucide-react';
 
-/* DATA CONSTANTS 
-  Populated from the user's resume and request details.
-*/
-
+/* DATA CONSTANTS */
 const PERSONAL_INFO = {
   name: "Sukhandeep Kaur",
   role: "Product Manager | Manufacturing Intelligence & AI",
@@ -109,8 +106,7 @@ const EDUCATION = [
   }
 ];
 
-/* COMPONENTS 
-*/
+/* COMPONENTS */
 
 const SectionTitle = ({ title, subtitle }) => (
   <div className="mb-12">
@@ -511,6 +507,7 @@ const App = () => {
 };
 
 export default App;
+
 /*export default function App() {
   return (
     <div className="flex items-center justify-center h-screen bg-gray-100">
