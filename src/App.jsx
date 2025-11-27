@@ -197,15 +197,15 @@ const Hero = () => (
         </div>
         
         <h1 className="text-5xl md:text-7xl font-bold text-white leading-tight mb-6">
-          Transforming Manufacturing with <br />
+          Transforming Business with <br />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-blue-500">
             Data Intelligence.
           </span>
         </h1>
         
         <p className="text-xl text-slate-400 mb-8 max-w-2xl leading-relaxed">
-          I build AI-driven products that optimize the shop floor. 
-          Specializing in CNC analytics, Industry 4.0, and digital transformation.
+          I build AI-driven products that optimize the industry. 
+          Specializing in data analytics, Industry 4.0, and digital transformation.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4">
